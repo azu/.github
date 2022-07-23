@@ -26,7 +26,7 @@ changelog:
     - title: Security Fixes
       labels: ['Type: Security']
     - title: Dependency Updates
-      labels: ['Type: Dependencies']
+      labels: ['Type: Dependencies', "dependencies"]
 
     - title: Other Changes
       labels: ['*']
